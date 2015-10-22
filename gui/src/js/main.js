@@ -8,4 +8,23 @@
         templateUrl: '...'
       })
   })
+    .run(function($rootScope, $http){
+      $rootScope.contacts = [
+        {
+          first_name: 'John',
+          last_name: 'Doe',
+          company: 'The Iron Yard',
+        },
+        {
+          first_name: 'John',
+          last_name: 'Doe',
+          company: 'The Iron Yard',
+        },
+        {
+          first_name: 'John',
+          last_name: 'Doe',
+          company: 'The Iron Yard',
+        }
+      ];
+    })
 })(); // END IIFE

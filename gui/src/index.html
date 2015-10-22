@@ -23,6 +23,10 @@
         <!-- Add your site or application content here -->
         <main class="container" ng-app="TIY-Contacts">
           <h1> TIY-Contacts -- Better than Apple! </h1>
+
+          <ul class="contacts">
+            <li ng-repeat="contact in contacts"> <a href="#">{{contact.first_name}} {{contact.last_name}}, {{contact.company}}</a>
+          </ul><!-- .contacts -->
         </main><!-- .container -->
 
         <!-- bower:js -->
