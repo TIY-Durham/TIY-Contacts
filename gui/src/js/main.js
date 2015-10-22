@@ -26,5 +26,10 @@
           company: 'The Iron Yard',
         }
       ];
+
+      $http.get('//localhost:3010/contacts.json')
+        .then(function(response){
+          $rootScope.contacts = response.data;
+        })
     })
 })(); // END IIFE
