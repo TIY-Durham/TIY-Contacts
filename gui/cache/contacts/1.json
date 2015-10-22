@@ -1,0 +1,57 @@
+{
+    "id": 1,
+    "first_name": "Jack",
+    "last_name": "Hodkiewicz",
+    "email_addresses": [
+        {
+            "id": 41,
+            "email_address": "mallory.trantow@leschbotsford.io",
+            "email_type": "Other"
+        },
+        {
+            "id": 57,
+            "email_address": "tara@keler.io",
+            "email_type": "Work"
+        },
+        {
+            "id": 294,
+            "email_address": "shea.ratke@gerholdschmidt.net",
+            "email_type": "Home"
+        },
+        {
+            "id": 298,
+            "email_address": "kamille.marvin@steuber.com",
+            "email_type": "Other"
+        },
+        {
+            "id": 360,
+            "email_address": "ramona@rau.info",
+            "email_type": "Home"
+        },
+        {
+            "id": 460,
+            "email_address": "denis_beier@ratke.org",
+            "email_type": "Other"
+        },
+        {
+            "id": 493,
+            "email_address": "jordan@ryanwelch.io",
+            "email_type": "Work"
+        },
+        {
+            "id": 752,
+            "email_address": "dawn.nicolas@handtowne.io",
+            "email_type": "Other"
+        },
+        {
+            "id": 787,
+            "email_address": "jerrell.heller@schuppe.com",
+            "email_type": "Work"
+        },
+        {
+            "id": 900,
+            "email_address": "madonna@wehnerankunding.net",
+            "email_type": "Work"
+        }
+    ]
+}
