@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/TIY-Durham/TIY-Contacts/issues"
   },
-  "homepage": "https://github.com/TIY-Durham/TIY-Contacts#readme"
+  "homepage": "https://github.com/TIY-Durham/TIY-Contacts#readme",
+  "devDependencies": {
+    "bower": "^1.6.3",
+    "browser-sync": "^2.9.11",
+    "node-sass": "^3.3.3",
+    "wiredep": "^2.2.2"
+  }
 }
